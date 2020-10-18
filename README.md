@@ -58,3 +58,12 @@
 #### website title
 
 1. i changed the webside title to make it meaningful
+
+### comment
+
+- i added comment to html and css files
+
+### links
+
+[this link for my repo] (https://github.com/mohamedahmed-1980/refactory.git)
+[this link for live website](https://mohamedahmed-1980.github.io/refactor/.)
